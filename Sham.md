@@ -124,3 +124,150 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 
 **•**		Worked in Exchange litigation hold and in place hold of the user mailbox 
 
+## Parablu Endpoint and Exchange Security
+
+●	User Endpoint backup management
+
+●	User mail exchange backup management
+
+●	Endpoint User policy Administration
+
+●	Activity Logs /Rca management.
+
+## Trend Micro Web/ Mail Security 
+
+●	Global ID or domain whitelisting & blocking list at Web/ mail security level.  
+
+●	Global IP whitelisting & blocking list at Web/ mail security level
+
+●	URL & IP Bypassing 
+
+●	Policy Level Whitelisting
+
+●	Virus Policy Whitelisting
+
+●	Sender Policy Framework (SPF) whitelisting.
+
+●	Mail Quarantine, spams mails management.
+
+●	TWMS agent Management
+
+●	Maintenance of Logs & Reports
+
+
+## Firewall code
+●	Tacitine Sophos UTM Box installing 
+
+●	Configuring WAN / LAN / VPN in network settings
+
+●	Configuring Port Forwarding 
+
+●	Creating users and Usage plans in user hotspot 
+
+●	Making Bridge mode in Sophos 
+
+●	Making ZTNA (zero trust network access) in firewall
+
+●	Setting Alerts checking logs and reports
+
+●	Dashboard - Status, DHCP monitor, IPsec monitor, fort view source, applications
+
+●	Network – interface, SD-WAN, DNS
+
+●	Policy & Object – FW policy, Address, Services, VIP
+
+●	Security Profiles
+
+●	VPN – IPsec tunnels
+
+●	Logs and Reports
+
+## Sentinel One Anti-Virus and End point Management:
+●	Dashboard: Accounts, Sites, Groups
+
+●	Sentinels: Endpoints, Policy, Blocklist, Exclusions, Network Control, Device Control, Package
+
+●	Incidents: Threats, Alerts, Threats Service
+
+●	Identity: Dashboard, Analysis, Configuration
+
+●	Application Management: Risks, Inventory, Policy
+
+●	Activity: all activity filters (Malware, Mitigation, Threat Management, Exclusions, Operation, Administrative, Detection Rule)
+
+●	Reports: Executive Insight Reports, Migration Reports, Application Reports, Threats Reports, Vigilance Reports, Executive Reports by Groups
+
+●	Automation: Task, Script Library, Task Management
+
+●	Setting: Configuration Notification, Users Integration Policy override, Account, site, location
+
+# Internet
+
+●	Configuring Aerohive Sophos access point routers  
+
+●	Adding Aerohive devices in hive manager iCloud 
+
+●	Creating separate SSID for staff and Management and assign to respective plan through VLAN
+
+●	Monitoring web site and bandage usage of users in firewall and report concerned.
+
+●	Worked on NAS Storage device maintenance and controller of storage space on cloud 
+
+## Voice Support  
+
+●	Service Handling of Inbound and outbound Calls both Domestic and Global support 
+
+●	Maintenance and creating a ticket for the issue and resolving on priority basis 
+
+●	Troubleshooting of chat bots in web server and monitoring  
+
+## G-suit Google Mail Admin 
+
+●	Creating email ids and monitoring usage 
+
+## Server Maintenance (Production & Development servers)
+
+●	Windows server 2016 2019 2012 2008
+
+●	Configuring IIS server for hosting in house developed software 
+
+●	 installing SSL certificate in ISS 
+
+●	Checking Events log for troubleshooting
+
+●	Configuring FTP for  with read only/write  access for getting live code from server
+
+●	Backend changes in MYSQL database using phpMyAdmin 
+
+●	Creating table and modify structure in database for software team in case of emergency
+
+●	Writing script for auto backup and monitor space availability the backup in the backup device
+
+## File Server 
+
+●	Windows server 2016 
+
+●	Configure Active Domain Service 
+
+●	Creating users in ADS
+
+●	Creating group membership 
+
+●	Creating shared folder for different departments
+
+●	Setting folder permission 
+
+●	Creating group policy for restricting specific permission on desktop and devices
+
+●	Maintaining back up and restoration of Data
+
+
+## RFA (Request for Approval)
+
+●	Users raise requests for IT peripherals in RFA. 
+
+●	Assign the requested ticket to the concerned heads and after approval get quote and procure the devices and peripherals.
+
+## Vendor Management 
+Procument of licenses from vendors and other It peripherals.
+
