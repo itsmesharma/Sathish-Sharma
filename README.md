@@ -1,29 +1,44 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Sathish Sharma
+<a href="[https://linkedin.com](https://www.linkedin.com/in/sathishsharma/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[PROFESSIONAL OBJECTIVE]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Aspiring to achieve a position to apply my knowledge and abilities in the field of given work and that offers intuitional and personal growth to myself and to the company.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Starts from System analyst and it has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Active directory (AD) |
+| Azure Entra |
+| Intune management |
+| Auto pilot/auto Migration | 
+| Windows Server Maintenance |
+| MAC devices Maintenance & troubleshooting |
+| Ticketing tools like Service Now & Freshdesk | 
+| Sentinel One endpoint system management | 
+| FortiGate firewall Managing |
+| VPN troubleshooting |
+| Microsoft 365 admin center | 
+| Microsoft exchange admin |
+| Fileserver | 
+| helpdesk & RFA|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+=>Trend micro web security, 
+=>Trend micro–Mail Security,
+=>Mimecast,
+=>Service Now & Freshdesk
 
 ### Network
 <div>
@@ -41,8 +56,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
