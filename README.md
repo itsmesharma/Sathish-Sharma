@@ -64,27 +64,27 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 
 ## IT Helpdesk and Job Roles  
 
-•	Trend micro-Web security, Trend micro mail security, Sophos Antivirus, sentinel one endpoint and antivirus management.
+**•**	Trend micro-Web security, Trend micro mail security, Sophos Antivirus, sentinel one endpoint and antivirus management.
 
-•	Monitoring tickets raised in Help desk and assign to respective team.
+**•**	Monitoring tickets raised in Help desk and assign to respective team.
 
-•	Resolve help desk tickets as per priority 
+**•**	Resolve help desk tickets as per priority 
 
-•	Worked with SLA on service now and Freshdesk.
+**•**	Worked with SLA on service now and Freshdesk.
 
-•	maintenance of reports creating the dashboards in service now/Freshdesk
+**•**	maintenance of reports creating the dashboards in service now/Freshdesk
 
-•	Worked as critical incident manager 
+**•**	Worked as critical incident manager 
 
-•	Analysts in Root cause for the incidents
+**•**	Analysts in Root cause for the incidents
 
-•	Well, known in Creating PIR Report for the issue 
+**•**	Well, known in Creating PIR Report for the issue 
 
-•	Creating a knowledge-based article / SOPs for the team 
+**•**	Creating a knowledge-based article / SOPs for the team 
 
-•	Vm ware installation and troubleshooting 
+**•**	Vm ware installation and troubleshooting 
 
-•	Nas storage monitoring and configuration 
+**•**		Nas storage monitoring and configuration 
 
 •	Windows 2016 server installation (raid 5, raid 9 installation)
 
@@ -104,23 +104,23 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 
 
 ## Microsoft office 365
-	User management, license Procurement, Exchange administration, Compliance management, SharePoint administration, 
+**•**		User management, license Procurement, Exchange administration, Compliance management, SharePoint administration, 
 
-	Troubleshooting Office 365 apps
+**•**		Troubleshooting Office 365 apps
 
-	Worked on Outlook issue like profile issue pst data backup adds in addition removal creating a rule in outlook both in Windows & Mac Devices.
+**•**		Worked on Outlook issue like profile issue pst data backup adds in addition removal creating a rule in outlook both in Windows & Mac Devices.
 
-	Worked in maintenance of licensing management of holding the threshold values of E1, E3 Power Bi pro license, project license 
+**•**		Worked in maintenance of licensing management of holding the threshold values of E1, E3 Power Bi pro license, project license 
 
-	Worked in the scope of Microsoft exchange and ECP admin console in creation modification and deletion of shared mailbox distribution list 
+**•**		Worked in the scope of Microsoft exchange and ECP admin console in creation modification and deletion of shared mailbox distribution list 
 
-	Worked in Mime cast
+**•**		Worked in Mime cast
 
-	Worked in Providing Sftp access to the user 
+**•**		Worked in Providing Sftp access to the user 
 
-	Troubleshooting Microsoft Teams issue creations of team’s channel and providing SharePoint access to the team’s chat members
+**•**		Troubleshooting Microsoft Teams issue creations of team’s channel and providing SharePoint access to the team’s chat members
 
-	Troubleshooting the user profile sync issue 
+**•**		Troubleshooting the user profile sync issue 
 
-	Worked in Exchange litigation hold and in place hold of the user mailbox 
+**•**		Worked in Exchange litigation hold and in place hold of the user mailbox 
 
