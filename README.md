@@ -102,3 +102,25 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 
 •	Worked on Microsoft azure platforms with both integrated with Ad and non-AD 
 
+
+## Microsoft office 365
+	User management, license Procurement, Exchange administration, Compliance management, SharePoint administration, 
+
+	Troubleshooting Office 365 apps
+
+	Worked on Outlook issue like profile issue pst data backup adds in addition removal creating a rule in outlook both in Windows & Mac Devices.
+
+	Worked in maintenance of licensing management of holding the threshold values of E1, E3 Power Bi pro license, project license 
+
+	Worked in the scope of Microsoft exchange and ECP admin console in creation modification and deletion of shared mailbox distribution list 
+
+	Worked in Mime cast
+
+	Worked in Providing Sftp access to the user 
+
+	Troubleshooting Microsoft Teams issue creations of team’s channel and providing SharePoint access to the team’s chat members
+
+	Troubleshooting the user profile sync issue 
+
+	Worked in Exchange litigation hold and in place hold of the user mailbox 
+
