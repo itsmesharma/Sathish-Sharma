@@ -1,4 +1,6 @@
 # Hello, I'm Sathish Sharma
+![image](https://github.com/user-attachments/assets/e156c162-081d-4757-be00-6bb2424cc6c3)
+
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 **PROFESSIONAL OBJECTIVE**
