@@ -62,7 +62,7 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 - SOC Automation Project
 
 
-IT Helpdesk and Job Roles  
+## IT Helpdesk and Job Roles  
 
 •	Trend micro-Web security, Trend micro mail security, Sophos Antivirus, sentinel one endpoint and antivirus management.
 
