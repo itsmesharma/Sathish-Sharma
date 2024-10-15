@@ -13,7 +13,7 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 
 
 | **Skill**                                      |    |
-|-----------------------------------------------|
+|-----------------------------------------------|----------------------------|
 | Active directory (AD) |
 | Azure Entra |
 | Intune management |
