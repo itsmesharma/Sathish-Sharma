@@ -65,21 +65,40 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 IT Helpdesk and Job Roles  
 
 •	Trend micro-Web security, Trend micro mail security, Sophos Antivirus, sentinel one endpoint and antivirus management.
+
 •	Monitoring tickets raised in Help desk and assign to respective team.
+
 •	Resolve help desk tickets as per priority 
+
 •	Worked with SLA on service now and Freshdesk.
+
 •	maintenance of reports creating the dashboards in service now/Freshdesk
+
 •	Worked as critical incident manager 
+
 •	Analysts in Root cause for the incidents
+
 •	Well, known in Creating PIR Report for the issue 
+
 •	Creating a knowledge-based article / SOPs for the team 
+
 •	Vm ware installation and troubleshooting 
+
 •	Nas storage monitoring and configuration 
+
 •	Windows 2016 server installation (raid 5, raid 9 installation)
+
 •	Cisco, FortiGate Vpn Troubleshooting and firewall Configuration and management 
+
 •	Worked on Active Directory on Prime, DHCP, DNS 
+
 •	Worked on Citrix receiver configuration and N Computing Configuration 
+
 •	 worked on Scam Patch update push platforms
+
 •	Worked on PowerShell Scripting 
+
 •	Worked on Server hardware Related issues (ram issues) backups Raid configuration in Dell Hp ProLiant servers 
+
 •	Worked on Microsoft azure platforms with both integrated with Ad and non-AD 
+
