@@ -7,7 +7,7 @@ Aspiring to achieve a position to apply my knowledge and abilities in the field 
 
 ## Objective
 
-My journey in Starts from System analyst and it has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Starts from System analyst and it has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Senior Security Analyst 
 
 ## Skills
 
