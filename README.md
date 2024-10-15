@@ -12,8 +12,8 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 ## Skills
 
 
-| Skill                                         |    |
-|-----------------------------------------------|----------------------------|
+| **Skill**                                      |    |
+|-----------------------------------------------|
 | Active directory (AD) |
 | Azure Entra |
 | Intune management |
@@ -28,11 +28,10 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 | Microsoft exchange admin |
 | Fileserver | 
 | helpdesk & RFA|
-| Skill                                         | Associated Project         |
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | 
+| Network Traffic Monitoring and Attack Detection | 
+| Incident Response Planning and Execution      | 
+| Scripting and Automation for Threat Mitigation | 
 
 ## Tools
 =>Trend micro web security, 
