@@ -1,7 +1,7 @@
 # Hello, I'm Sathish Sharma
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[PROFESSIONAL OBJECTIVE]
+**## PROFESSIONAL OBJECTIVE**
 
 Aspiring to achieve a position to apply my knowledge and abilities in the field of given work and that offers intuitional and personal growth to myself and to the company.
 
@@ -55,5 +55,6 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 </div>
 
 ## Projects
-- Detection Lab
+- Auto Pilot
+- Auto Migrations
 - SOC Automation Project
