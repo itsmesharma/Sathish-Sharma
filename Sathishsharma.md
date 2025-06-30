@@ -38,15 +38,9 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 | Scripting and Automation for Threat Mitigation | 
 
 ## Tools
-=>Trend micro web security, 
+=>Trend micro web security
 
-=>Trend micro–Mail Security,
-
-=>Mimecast,
-
-=>Cortex,
-
-=>Bigfix,
+=>Trend micro–Mail Security
 
 =>Service Now & Freshdesk
 
@@ -57,12 +51,19 @@ My journey in Starts from System analyst and it has led me to develop a passion 
     
     
 => Sentinal One
+
+=>Cortex
+
+=>Big fix
+
+=>Forcepoint
     
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+=> Qualys
 
 ## Projects
 - Auto Pilot
