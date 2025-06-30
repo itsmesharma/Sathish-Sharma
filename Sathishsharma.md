@@ -20,8 +20,9 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 | Active directory (AD) |
 | Azure Entra |
 | Intune management |
+| Server Management |
 | Auto pilot/auto Migration | 
-| Windows Server Maintenance |
+| VM WARE Management |
 | MAC devices Maintenance & troubleshooting |
 | Ticketing tools like Service Now & Freshdesk | 
 | Sentinel One endpoint system management | 
@@ -42,6 +43,10 @@ My journey in Starts from System analyst and it has led me to develop a passion 
 =>Trend micro–Mail Security,
 
 =>Mimecast,
+
+=>Cortex,
+
+=>Bigfix,
 
 =>Service Now & Freshdesk
 
